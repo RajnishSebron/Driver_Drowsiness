@@ -21,9 +21,14 @@ Before you can run this project, ensure you have the following installed:
 - imutils
 - pygame
 
+## Download
+- shape_predictor_68_face_landmarks.dat file from kaggle.
+
 ## Acknowledgments
 - OpenCV for computer vision functionality.
 - dlib for facial landmark detection.
 - Imutils for image processing utilities.
+
+
 
 
