@@ -23,6 +23,7 @@ Before you can run this project, ensure you have the following installed:
 
 ## Download
 - shape_predictor_68_face_landmarks.dat file from kaggle.
+- It used to identify 68 specific points on a human face.
 
 ## Acknowledgments
 - OpenCV for computer vision functionality.
